@@ -17,9 +17,8 @@
     ],
     "require": {
         "php": "~5.3",
-        "phpunit/phpunit": "~3.7",
+        "phpunit/phpunit": "~4.0",
         "phpunit/php-invoker": "~1.1",
-        "phpunit/phpunit-story": "~1.0",
         "phpmd/phpmd": "~1.4",
         "squizlabs/php_codesniffer": "~1.4",
         "satooshi/php-coveralls": "~0.6"

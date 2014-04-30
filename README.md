@@ -1,6 +1,6 @@
 # CI-Tools composer meta package
 [![Latest Stable Version](https://poser.pugx.org/sandrokeil/citools/v/stable.png)](https://packagist.org/packages/sandrokeil/citools)
-[![Dependency Status](https://www.versioneye.com/user/projects/534ee6aafe0d07a8e10003e3/badge.png)](https://www.versioneye.com/user/projects/534ee6aafe0d07a8e10003e3)
+[![Dependency Status](https://www.versioneye.com/user/projects/53615ccbfe0d07b45c000090/badge.png)](https://www.versioneye.com/user/projects/53615ccbfe0d07b45c000090)
 [![Total Downloads](https://poser.pugx.org/sandrokeil/citools/downloads.png)](https://packagist.org/packages/sandrokeil/easy-config)
 [![License](https://poser.pugx.org/sandrokeil/citools/license.png)](https://packagist.org/packages/sandrokeil/citools)
 

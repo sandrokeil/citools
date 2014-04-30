@@ -13,7 +13,7 @@ Put the following into your composer.json
 
     {
         "require-dev": {
-            "sandrokeil/citools": "1.0.0"
+            "sandrokeil/citools": "~1.0"
         }
     }
 
@@ -22,11 +22,16 @@ Put the following into your composer.json
 See [.travis.yml](https://github.com/sandrokeil/qatools/tree/master/.travis.yml),
 [.scrutenizer.yml](https://github.com/sandrokeil/qatools/tree/master/.scrutenizer.yml) and [phpunit.xml.dist](https://github.com/sandrokeil/qatools/tree/master/phpunit.xml.dist) for an example configuration.
 
-## Integrated tools
+## Continuous Integration/Inspection tools
+* [travis-ci](https://travis-ci.org/)
+* [scrutenizer](https://scrutinizer-ci.com/)
+* [coveralls](https://coveralls.io/)
+* [VersionEye](https://www.versioneye.com)
 
-* phpunit/phpunit
-* phpunit/php-invoker
-* phpunit/phpunit-story
-* phpmd/phpmd
-* squizlabs/php_codesniffer
-* satooshi/php-coveralls
+## Integrated libraries
+* [phpunit/phpunit](https://github.com/sebastianbergmann/phpunit)
+* [phpunit/php-invoker](https://github.com/sebastianbergmann/php-invoker)
+* [phpunit/phpunit-story](https://github.com/sebastianbergmann/phpunit-story)
+* [phpmd/phpmd](https://github.com/phpmd/phpmd)
+* [squizlabs/php_codesniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+* [satooshi/php-coveralls](https://github.com/satooshi/php-coveralls))

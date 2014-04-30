@@ -5,12 +5,13 @@
     "license": "BSD-3-Clause",
     "type": "library",
     "keywords": [
-        "tools",
         "qa",
         "ci",
         "travis",
         "coveralls",
-        "scrutenizer"
+        "scrutenizer",
+        "tools",
+        "php"
     ],
     "authors": [
         {"name": "Sandro Keil", "homepage": "https://github.com/sandrokeil"}

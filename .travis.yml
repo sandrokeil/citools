@@ -4,6 +4,11 @@ php:
   - 5.3
   - 5.4
   - 5.5
+  - hhvm
+
+matrix:
+  allow_failures:
+    - php: hhvm
 
 before_script:
   - composer self-update
@@ -14,4 +19,4 @@ script:
   - ./vendor/bin/phpcs --standard=PSR2 ./src/ ./test
 
 after_script:
-  - php vendor/bin/coveralls -v
+  - php vendor/bin/coveralls

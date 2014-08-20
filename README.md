@@ -31,6 +31,7 @@ See [.travis.yml](https://github.com/sandrokeil/qatools/tree/master/.travis.yml)
 * [scrutenizer](https://scrutinizer-ci.com/)
 * [coveralls](https://coveralls.io/)
 * [VersionEye](https://www.versioneye.com)
+* [SensioLabsInsight](https://insight.sensiolabs.com/)
 
 ## Integrated libraries
 * [phpunit/phpunit](https://github.com/sebastianbergmann/phpunit)
@@ -38,4 +39,4 @@ See [.travis.yml](https://github.com/sandrokeil/qatools/tree/master/.travis.yml)
 * [phpunit/phpunit-story](https://github.com/sebastianbergmann/phpunit-story)
 * [phpmd/phpmd](https://github.com/phpmd/phpmd)
 * [squizlabs/php_codesniffer](https://github.com/squizlabs/PHP_CodeSniffer)
-* [satooshi/php-coveralls](https://github.com/satooshi/php-coveralls))
+* [satooshi/php-coveralls](https://github.com/satooshi/php-coveralls)

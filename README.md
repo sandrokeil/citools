@@ -9,7 +9,7 @@
 > This module comes to the rescue!
 
 [![Latest Stable Version](https://poser.pugx.org/sandrokeil/citools/v/stable.png)](https://packagist.org/packages/sandrokeil/citools)
-[![Dependency Status](https://www.versioneye.com/user/projects/53615ccbfe0d07b45c000090/badge.png)](https://www.versioneye.com/user/projects/53615ccbfe0d07b45c000090)
+[![Dependency Status](https://www.versioneye.com/user/projects/540371b0eab62a132800014a/badge.svg)](https://www.versioneye.com/user/projects/540371b0eab62a132800014a)
 [![Total Downloads](https://poser.pugx.org/sandrokeil/citools/downloads.png)](https://packagist.org/packages/sandrokeil/easy-config)
 [![License](https://poser.pugx.org/sandrokeil/citools/license.png)](https://packagist.org/packages/sandrokeil/citools)
 

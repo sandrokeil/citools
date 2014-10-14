@@ -63,6 +63,7 @@ All continuous integration/inspection tools have its own badges but if you want 
 * [Shields.io](http://shields.io/) - Custom badges
 * [Still Maintained](http://stillmaintained.com/) - Finally a place to mark your open source project 
 as abandoned or looking for a new maintainer
+* [Issuestats.com](http://issuestats.com/) Analyze and compare how long it takes for Github issues to be closed
 
 ## Application access
 Some ci tools need access to your repository. Sign in with your github login to grant access to your repository. Here

@@ -1,6 +1,6 @@
 {
     "name": "sandrokeil/citools",
-    "description": "Composer meta package of qa tools for travis, coveralls and scrutenizer",
+    "description": "Composer meta package of QA tools for Travis, Coveralls and Scrutenizer",
     "homepage": "https://github.com/sandrokeil/citools",
     "license": "BSD-3-Clause",
     "type": "library",
@@ -22,7 +22,7 @@
         "phpunit/phpunit": "~4.1",
         "phpunit/php-invoker": "~1.1",
         "phpmd/phpmd": "~2.0",
-        "squizlabs/php_codesniffer": "~1.4",
+        "squizlabs/php_codesniffer": "~2.0",
         "satooshi/php-coveralls": "~0.6"
     }
 }
